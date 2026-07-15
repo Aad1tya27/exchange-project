@@ -1,0 +1,5 @@
+/home/adi/Desktop/INTERN PROJECTS/Whiskers Capital Exchange/engine-c++/build/CMakeFiles/engine_core.dir
+/home/adi/Desktop/INTERN PROJECTS/Whiskers Capital Exchange/engine-c++/build/CMakeFiles/engine_tests.dir
+/home/adi/Desktop/INTERN PROJECTS/Whiskers Capital Exchange/engine-c++/build/CMakeFiles/engine_app.dir
+/home/adi/Desktop/INTERN PROJECTS/Whiskers Capital Exchange/engine-c++/build/CMakeFiles/edit_cache.dir
+/home/adi/Desktop/INTERN PROJECTS/Whiskers Capital Exchange/engine-c++/build/CMakeFiles/rebuild_cache.dir

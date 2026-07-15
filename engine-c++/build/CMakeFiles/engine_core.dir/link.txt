@@ -1,0 +1,2 @@
+/usr/bin/ar qc libengine_core.a CMakeFiles/engine_core.dir/src/engine.cpp.o CMakeFiles/engine_core.dir/src/orderbook.cpp.o CMakeFiles/engine_core.dir/src/redis_client.cpp.o CMakeFiles/engine_core.dir/src/redis_protocol.cpp.o
+/usr/bin/ranlib libengine_core.a
